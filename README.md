@@ -1,1 +1,9 @@
-# Pygame-1942
+# 🛩️ Pygame-1942
+This project is a modern take on the classic retro plane game *1942*. Built using the Pyxel game library, it features a fully playable environment where you control a plane in dynamic combat. Each entity in the game, from enemies to player controls, is managed through individual files for easy customization and readability.
+
+Key highlights:
+
+* 🎮 Custom-built game board for an immersive experience
+* 🛠️ All assets were designed using Pyxel's built-in engine
+* 📂 Modular file structure for each game entity
+* 🚀 Main file to seamlessly launch and start gameplay
